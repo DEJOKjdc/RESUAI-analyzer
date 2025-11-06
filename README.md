@@ -16,7 +16,10 @@ ResuAI helps users refine their resumes strategically to increase their chances 
 
 ⚙️ Environment Variables
 To run this project locally, you will need to create a file named .env in the root directory of the project and provide the following environment variables:
+
+
 GEMINI_API_KEY=your_actual_gemini_api_key
+
 PORT=5000
 
 That's a great start! To correctly run the project based on the commands you provided, here are the likely steps, assuming a standard Node.js/npm project setup:
@@ -30,6 +33,8 @@ You need to run the npm install command first to download and set up all the req
 Bash
 
 npm install
+
+
 2. Run the Project
 After the dependencies are installed, you can use the command you mentioned to start the development environment.
 
